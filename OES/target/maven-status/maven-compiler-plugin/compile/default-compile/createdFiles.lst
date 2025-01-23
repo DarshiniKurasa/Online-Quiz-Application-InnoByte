@@ -1,0 +1,17 @@
+com\entity\Exam.class
+com\entity\Student.class
+com\helper\OTP.class
+com\entity\Enroll.class
+com\helper\FactoryProvider.class
+com\helper\RandomIdGenerator.class
+com\entity\Question.class
+com\entity\Batch.class
+com\entity\Answer.class
+com\helper\GEmailSender$1.class
+com\entity\Notice.class
+com\helper\DatabaseClass.class
+com\helper\App.class
+com\helper\GEmailSender.class
+com\entity\User.class
+com\helper\DateFormat.class
+com\entity\Result.class
